@@ -21,6 +21,7 @@ A simple React application that displays reusable profile cards.
 
   `git clone https://github.com/AbialaFaith/intro-js-frameworks-react-first-task.git`
 
+- cd `intro-js-frameworks-react-first-task`
 - cd `my-first-react`
 - Checkout the `profile-card` branch
 
